@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>demo-app</finalName>
 	</build>
 
 </project>
